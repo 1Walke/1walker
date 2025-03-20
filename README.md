@@ -12,7 +12,7 @@
     <li><strong>Backend</strong>: Node.js, C, C#, JavaScript</li>
     <li><strong>Database</strong>: MySQL</li>
     <li><strong>DevOps</strong>: GitHub Actions</li>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"" alt="Discord Bot GIF" style="width: 50px; height: 50px;"/></li>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"" alt="Discord Bot GiF" style="width: 50px; height: 50px;"/></li>
     <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"" alt="Discord Bot GIF" style="width: 50px; height: 50px;"/></li>
 </ul>
 
@@ -35,4 +35,5 @@
 
 <h3 style="color: #007bff;">📫 Como me encontrar:</h3>
 <p><strong>Email</strong>: <a href="mailto:misaelcardoso778@gmail.com">misaelcardoso778@gmail.com</a></p>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"" alt="Discord Bot GIF" style="width: 50px; height: 50px;"/></li>
 
