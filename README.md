@@ -23,7 +23,7 @@
 <p>Tenho orgulho de contribuir para a comunidade de código aberto e estou sempre buscando maneiras de melhorar a qualidade do software que desenvolvo. Se você tem um projeto interessante ou um desafio técnico, estou aberto a colaborações e feedbacks construtivos.</p>
 
 <ul style="font-size: 1.1em;">
-    <li><strong>Desenvolvedor de Servidor SAMP</strong>: Linguagens utilizadas no projeto: PAWNO, C e SQL.</li>
+    <li><strong>Desenvolvedor de Servidor SAMP</strong>: Linguagens utilizadas no projeto: Pawno, C e SQL.</li>
     <li><strong>Discord Developer</strong>: Criação de automações de atividades utilizando bots no Discord, com linguagens JavaScript e Python.</li>
 </ul>
 
