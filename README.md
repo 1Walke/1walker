@@ -25,6 +25,7 @@
 <ul style="font-size: 1.1em;">
     <li><strong>Desenvolvedor de Servidor SAMP</strong>: Linguagens utilizadas no projeto: Pawno, C e SQL.</li>
     <li><strong>Discord Developer</strong>: Criação de automações de atividades utilizando bots no Discord, com linguagens JavaScript e Python.</li>
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord Bot GIF" style="width: 50px; height: 50px;"/></li>
 </ul>
 
 <h3 style="color: #007bff;">🎯 Objetivo:</h3>
